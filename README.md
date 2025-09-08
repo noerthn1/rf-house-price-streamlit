@@ -16,3 +16,6 @@ This is a simple Streamlit web app that predicts house prices using the Kaggle H
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Run on Streamlit
+https://rf-house-price-app-h4ggv24yi9zg8jjg3x5rjb.streamlit.app/
